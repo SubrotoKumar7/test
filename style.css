@@ -4,3 +4,7 @@ body{
     color: whitesmoke;
     font-size: 15px;
 }
+.flex{
+    display: flex;
+    justify-content: space-between;
+}

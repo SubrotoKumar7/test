@@ -28,3 +28,18 @@ a{
     height: 250px;
     object-fit: cover;
 }
+.img-container{
+    position: relative;
+}
+.img-container img{
+    width: 100%;
+    height: 100%;
+}
+.img-container p{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: #fff;
+    color: black;
+    padding: 5px 10px;
+}
